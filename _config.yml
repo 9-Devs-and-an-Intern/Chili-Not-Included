@@ -1,3 +1,7 @@
-title: Devlogs From the Cauldron
-description: Chili not Included
-theme: cocoa
+title: Chili Not Included
+description: Devlog for our absurdist chili-themed metroidvania
+markdown: kramdown
+permalink: /:title/
+collections:
+  devlogs:
+    output: true
