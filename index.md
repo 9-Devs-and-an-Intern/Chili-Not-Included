@@ -1,6 +1,16 @@
 ---
-layout: home
-title: Devlogs From the Cauldron
+layout: default
+title: Home
 ---
 
-Welcome to the disorganized chaos that is the dev team. 
+# Welcome to Chili Not Included
+
+Here’s our latest nonsense.
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a> — {{ post.date | date: "%B %d, %Y" }}
+    </li>
+  {% endfor %}
+</ul>
