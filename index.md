@@ -5,7 +5,7 @@ title: Home
 
 # Welcome to Chili Not Included
 
-Here’s our latest nonsense.
+This is the collective hopes, dreams, hallucinations, and lunches of the dev team.
 
 <ul>
   {% for post in site.posts %}
