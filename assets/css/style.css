@@ -1,13 +1,13 @@
 body {
   font-family: Arial, sans-serif;
-  color: #000000;
+  color: #BEDBED;
   margin: 2rem;
-  line-height: 1.5;
+  line-height: 1;
 }
 
 .dev2 {
   font-family: 'Play', sans-serif;
-  color: #000000;
+  color: #0C0C0C;
   border-left: 4px solid #ff6f00;
   padding: 1rem;
   margin-bottom: 1rem;
@@ -24,7 +24,7 @@ body {
 
 .dev4 {
   font-family: 'IBM Plex Mono', monospace;
-  color: #000000;
+  color: #0C0C0C;
   padding: 1rem;
   border-radius: 8px;
   box-shadow: 0 0 8px #ff69b4;
@@ -51,7 +51,7 @@ body {
 
 .dev7 {
   font-family: 'Comic Neue', cursive;
-  color: #000000;
+  color: #0C0C0C;
   padding: 1rem;
   border-radius: 8px;
   box-shadow: 0 0 8px #ff69b4;
@@ -69,7 +69,7 @@ body {
 
 .dev9 {
   font-family: 'Annie Use Your Telescope', cursive;
-  color: #000000;
+  color: #0C0C0C;
   padding: 1rem;
   border-radius: 8px;
   box-shadow: 0 0 8px #ff69b4;
