@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Welcome to Chili Not Included
+<p class="dev2"> # Welcome to Chili Not Included
 
 This is the collective hopes, dreams, hallucinations, and lunches of the dev team.
 
@@ -14,3 +14,4 @@ This is the collective hopes, dreams, hallucinations, and lunches of the dev tea
     </li>
   {% endfor %}
 </ul>
+</p>
